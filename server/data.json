@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Bills Tailgate Chair",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3236000/ff_3236959_full.jpg&w=900",
+    "price": 30.99
+  },
+  {
+    "id": 1,
+    "name": "Josh Allen Poster",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3346000/ff_3346474-562be04c81fe281698e7_full.jpg&w=900",
+    "price": 7.49
+  },
+  {
+    "id": 2,
+    "name": "Bills Laptop Backpack",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_4046000/ff_4046729-cb27b6e3698668cda4e7_full.jpg&w=900",
+    "price": 39.99
+  },
+  {
+    "id": 3,
+    "name": "Bills Knit Hat",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_2791000/ff_2791788_full.jpg&w=900",
+    "price": 12.99
+  },
+  {
+    "id": 4,
+    "name": "Buffalo Bills Cornhole Set",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3857000/ff_3857092-bc374830b1bbed62f9a4_full.jpg&w=900",
+    "price": 34.99
+  },
+  {
+    "id": 5,
+    "name": "Bills New Era Hoodie",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3760000/altimages/ff_3760954-879b14a181b44a291b2ealt1_full.jpg&w=900",
+    "price": 29.99
+  },
+  {
+    "id": 6,
+    "name": "Bills Face Covering 3 Pack",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3910000/altimages/ff_3910879-4984621c0b6a4e97f86aalt1_full.jpg&w=900",
+    "price": 11.99
+  },
+  {
+    "id": 7,
+    "name": "Jim Kelly Replica Jersey",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3610000/ff_3610389-3e8048b39ba0e79a0077_full.jpg&w=340",
+    "price": 112.99
+  },
+  {
+    "id": 8,
+    "name": "Doug Flutie Legacy Jersey",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_4019000/ff_4019463-9edd4503fb782830e955_full.jpg&w=340",
+    "price": 105.49
+  },
+  {
+    "id": 9,
+    "name": "Josh Allen Color Rush Jersey",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3167000/altimages/ff_3167218alt1_full.jpg&w=900",
+    "price": 79.99
+  },
+  {
+    "id": 10,
+    "name": "Stefon Diggs Jersey",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3878000/altimages/ff_3878095-a300058e59c4d435c040alt1_full.jpg&w=900",
+    "price": 99.99
+  },
+  {
+    "id": 11, 
+    "name": "Bills Authentic Camo Helmet",
+    "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3824000/ff_3824438-afae537e242378ad33ff_full.jpg&w=900",
+    "price": 199.99
+  }
+]
